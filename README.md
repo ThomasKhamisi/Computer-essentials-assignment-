@@ -1,4 +1,4 @@
-# Computer-essentials-assignment-
+
 # Computer-Essientials-Assignment.
 This is a holiday assignment that will help you structure your projects better.
  # Project Management Assignment
